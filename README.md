@@ -1,6 +1,6 @@
 ### Hi there 👋, Selene Ye
 #### Design and Creating
-![Design and Creating]([https://pbs.twimg.com/profile_banners/829190726953160704/1707102363/1500x500](https://github.com/SELENEPUYING/Selene-folio/blob/main/banner.png))
+![Design and Creating](https://github.com/SELENEPUYING/Selene-folio/blob/main/banner.png)
 
 I'm Selene, a UX + Digital Content Designer, passionate about creating designs that empower user experiences. 
 
