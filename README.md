@@ -1,6 +1,6 @@
 ![Design and Creating](https://github.com/SELENEPUYING/Selene-folio/blob/main/banner.png)
-### Hi there 👋, Selene Ye
-#### Design and Creating
+### Hi there 👋, this is Selene Ye
+#### “Design isn’t finished until somebody is using it”.
 
 
 I'm Selene, a UX + Digital Content Designer, passionate about creating designs that empower user experiences. 
