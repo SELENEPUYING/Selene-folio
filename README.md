@@ -5,7 +5,8 @@
 
 I'm Selene, a UX + Digital Content Designer, passionate about creating designs that empower user experiences. 
 
-Skills: UX Research / UI Design / PS / PR / AE
+## Skills: 
+UX Research / UI Design / PS / PR / AE
 
 - 🔭 I’m currently working on this page. 
 - ⚡ Fun fact: I have over 200 Jellycat's toys🤣 
